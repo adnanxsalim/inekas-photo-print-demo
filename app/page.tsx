@@ -144,7 +144,7 @@ export default function PhotoPrintingPage() {
                       className="absolute right-2 top-2 rounded-full bg-destructive p-1.5 text-destructive-foreground shadow-lg transition-transform hover:scale-110"
                       aria-label="Remove photo"
                     >
-                      <X className="h-4 w-4" />
+                      <X className="h-4 w-4 text-white" />
                     </button>
                   </div>
                   <div className="p-4">
